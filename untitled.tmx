@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Dungeon_A2" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_A2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="Dungeon_A4" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_A4.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="433" name="Dungeon_A1" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_A1.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="625" name="Dungeon_A5" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_A5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="753" name="Dungeon_B" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_B.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1009" name="Dungeon_C" tilewidth="32" tileheight="32">
+  <image source="../Dungeon_C.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYMANzIDYEAmb4VGLrAcfRjcPG8bnBlLxcDYPW7gSCnNi3IJLz2cm8s0jNk2QElbYACn24FNLjD3UdvdgN48UTCsAAPtnKkI=
+  </data>
+ </layer>
+</map>
